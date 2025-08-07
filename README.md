@@ -1,4 +1,4 @@
-# 🎯 Project Bolt – Diary & Music Web App
+# 🎯 Diary & Music Web App
 
 A full-stack web application that combines diary management with music streaming to create a personalized self-care experience.
 
