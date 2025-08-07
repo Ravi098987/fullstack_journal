@@ -6,7 +6,7 @@ A full-stack web application that combines diary management with music streaming
 
 ## 📁 Project Structure
 
-project/
+project/ '\n'
 ├── server/ # Backend API (Node.js + Express)
 │ ├── middleware/ # Middleware for auth and other logic
 │ │ ├── auth.cjs
